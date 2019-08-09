@@ -1,0 +1,9 @@
+.child {
+	height: 100px;
+	width: 100px;
+	border: 1px solid #000;
+}
+
+.child.coloured {
+	background: #10be2a;
+}
